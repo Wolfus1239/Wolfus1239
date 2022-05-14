@@ -1,0 +1,30 @@
+.form__auth{
+    margin-left: auto;
+    margin-right: auto;
+    height: 300px;
+    width: 300px;
+    display: flex;
+    flex-flow: column wrap;
+}
+
+.h2-login{
+    display: flex;
+    justify-content: center;
+}
+
+.item-from-login{
+    padding-bottom: 10px;
+}
+
+.h2-reg{
+    display: flex;
+    justify-content: center;
+}
+
+.hello-form{
+    margin-left: auto;
+    margin-right: auto;
+    height: 300px;
+    width: 600px;
+    background-color: white;
+}
